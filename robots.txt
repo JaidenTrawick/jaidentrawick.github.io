@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /blog/
+Disallow: /cv/
 
 Sitemap: https://jaidentrawick.com/sitemap.xml
