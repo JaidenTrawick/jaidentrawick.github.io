@@ -47,7 +47,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: false
 
@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: thoughts on... nothing at the moment
 permalink: /blog/:title/
 lsi: false # produce an index for related posts
 
