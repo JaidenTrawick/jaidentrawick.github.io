@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - "assets/**"
-      - "**.bib"
+      - "**.scss"
       - "**.html"
       - "**.js"
       - "**.liquid"
