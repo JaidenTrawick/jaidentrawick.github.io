@@ -4,7 +4,7 @@
 
 title: # the website title (if blank, full name will be used instead)
 first_name: Jaiden
-middle_name:
+middle_name: 
 last_name: Trawick
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -112,8 +112,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: Or fill out a [contact form](https://docs.google.com/forms/d/e/1FAIpQLSco_eK-DtPA2-ZW-K1XIiBNkzEZru16JWwGbteuUAlQgEt6fw/viewform)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
