@@ -9,9 +9,9 @@ last_name: Trawick
 contact_note: Or fill out a <a href="https://docs.google.com/forms/d/e/1FAIpQLSco_eK-DtPA2-ZW-K1XIiBNkzEZru16JWwGbteuUAlQgEt6fw/viewform" target="_blank">contact form</a>.
 description:
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Blood moon image from <a href="https://www.vecteezy.com/free-png/blood-moon">Vecteezy</a>.
+  Blood moon image from <a href="https://www.vecteezy.com/free-png/blood-moon">Vecteezy</a>.<br>
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
