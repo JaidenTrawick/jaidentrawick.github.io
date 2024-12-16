@@ -1,4 +1,10 @@
 User-agent: *
-Disallow:
+Disallow: /blog/
+Disallow: /cv/
+Disallow: /people/
+Disallow: /projects/
+Disallow: /publications/
+Disallow: /repositories/
+Disallow: /teaching/
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://jaidentrawick.com/sitemap.xml
