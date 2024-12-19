@@ -6,5 +6,3 @@ Disallow: /projects/
 Disallow: /publications/
 Disallow: /repositories/
 Disallow: /teaching/
-
-Sitemap: https://jaidentrawick.com/sitemap.xml
