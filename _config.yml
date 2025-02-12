@@ -15,7 +15,7 @@ footer_text: >
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-indexed: false # set to "false" to add "<meta name="robots" content="none">" to the head of each page
+indexed: true # set to "false" to add "<meta name="robots" content="none">" to the head of each page
 
 url: https://jaidentrawick.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
