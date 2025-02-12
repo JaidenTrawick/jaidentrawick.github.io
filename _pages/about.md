@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: software, tabletop RPGs, photography, art
+subtitle: software, chess, writing, art
 
 profile:
   align: right
