@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: projects
+nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: H5 Dice Roller
+    permalink: /h5-dice-roller/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: W5 Dice Roller
+    permalink: /w5-dice-roller/
 ---
